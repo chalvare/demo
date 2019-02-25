@@ -4,4 +4,4 @@
 
 Probamos el git commit -m "Vamos a escribir una frase
 
-changes, other changes
+this is bound to cause a conflict
